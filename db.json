@@ -19,6 +19,11 @@
            "shares_count": 0,
            "shares": {},
            "comments_count": 0
+           "provider": {
+               "id": 0,
+               "name": "Cairokee",
+               "name_ar": "كايروكى"
+           }
          }
       ]
    }
